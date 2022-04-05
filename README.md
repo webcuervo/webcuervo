@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML5, CSS3
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me? just emali me
+- 📫 How to reach me? just email me
 
 <!---
 webcuervo/webcuervo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
